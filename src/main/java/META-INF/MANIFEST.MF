@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.example.A00444846_springApi.A00444846SpringApiApplicatio
+ n
+
